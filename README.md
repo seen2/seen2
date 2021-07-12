@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sintu / Lokpati</h1>
-<h3 align="center">A passionate full-stack developer and cosmos lover from Bharat</h3>
+<h3 align="center">A passionate full-stack(ie.JavaScript) developer and cosmos lover from Bharat</h3>
 
 - 🔭 I’m currently working in TCSL as Full Stack Developer on [Private Financial Project](https://github.com/seen2/)
 
