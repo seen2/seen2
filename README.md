@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokpati(Sintu) </h1>
 <h3 align="center">A passionate full-stack(ie.JavaScript) developer and cosmos lover from Bharat</h3>
 
-- 🔭 I’m currently working in TCSL as Full Stack Developer on [Private Financial Project](https://github.com/seen2/)
+- 🔭 I’m currently working in TCSL as Full Stack Developer on [Private Financial Project](https://en.wikipedia.org/wiki/TCS_BaNCS)
 
 - 🌱 I’m currently learning **Flutter**
 
