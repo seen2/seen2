@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokpati(Sintu) </h1>
+<h1 align="center">Hi 👋, I'm Lokpati/Sintu </h1>
 <h3 align="center">Full-stack(ie.JavaScript NodeJS) developer and Internation Relations observer who hails from Bharat</h3>
 
 - 🔭 I’m currently working in TCSL as Full Stack Developer on [Private Financial Project](https://en.wikipedia.org/wiki/TCS_BaNCS)
