@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokpati Tiwari </h1>
+<h1 align="center">Hi 👋, I'm Sintu Tiwari </h1>
 <h3 align="center">Full-stack(ie.JavaScript NodeJS) developer and International Relations observer who hails from Bharat</h3>
 
 - 🔭 I’m currently working in TCSL as Full Stack Developer on [Private Financial Project](https://en.wikipedia.org/wiki/TCS_BaNCS)
@@ -11,13 +11,13 @@
 
 - 💬 Ask me about **JavaScript and Dart**
 
-- 📫 How to reach me **tiwarietc@gmail.com**
+- 📫 How to reach me **imailtiwari@gmail.com**
 
 - ⚡ Fun fact **I always decrypt the law of this cosmos and love MCU Movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lokpati-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokpati-tiwari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sintu-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokpati-tiwari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lokpati9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lokpati9" height="30" width="40" /></a>
 <a href="https://discord.gg/sintu#5368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sintu#5368" height="30" width="40" /></a>
 </p>
