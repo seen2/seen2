@@ -4,13 +4,13 @@
 - 🔭 I’m currently working in Infosys as Full Stack Developer on [Private Digital Communication Project](https://infosys.com)
 - 🔭 I've worked in TCSL as Full Stack Developer on [Private Financial Project](https://en.wikipedia.org/wiki/TCS_BaNCS)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **ML/AI/DL**
 
 - 🤝 I’m looking for help with Creating the **Flutter Hybrid Native Apps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/seen2/](https://github.com/seen2/)
 
-- 💬 Ask me about **JavaScript and Dart**
+- 💬 Ask me about **JavaScript and ML**
 
 - 📫 How to reach me **tiwarietc@gmail.com**
 
