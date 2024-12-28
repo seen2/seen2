@@ -5,7 +5,7 @@
 - 🔭 I've worked in Infosys as Full Stack Developer on [Private Digital Communication Project for Verizon](https://infosys.com)
 - 🔭 I've worked in TCSL as Full Stack Developer on [Private Financial Project for Nedbank](https://en.wikipedia.org/wiki/TCS_BaNCS)
 
-- 🌱 I’m currently learning **ML/AI/DL**
+- 🌱 I’m currently learning **Microservices ML/AI/DL**
 
 - 🤝 I’m looking for help with Creating the **Spring Boot Microservices**
 
