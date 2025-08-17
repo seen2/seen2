@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokpati Tiwari </h1>
 <h3 align="center">Full-stack(ie.Java Springboot JavaScript NodeJS) developer and International Relations observer who hails from Bharat</h3>
 
-- 🔭 I’m currently working in Infosys as Full Stack Developer on [Private Credit and ATM card Lounge System Project for American Express](https://infosys.com)
+- 🔭 I’m currently working in MetLife as Full Stack Developer on [Private CDF Application](https://metlife.com)
 - 🔭 I've worked in Infosys as Full Stack Developer on [Private Digital Communication Project for Verizon](https://infosys.com)
 - 🔭 I've worked in TCSL as Full Stack Developer on [Private Financial Project for Nedbank](https://en.wikipedia.org/wiki/TCS_BaNCS)
 
